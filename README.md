@@ -1,4 +1,4 @@
-## Hi, my name is Perfect :octocat::sparkles:
+## Hi, my name is Perfect :gem: :sparkles:
 
 <!--
 **psylvester07/psylvester07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-- I'm a Computer Science student with a concentration in Data Science. I am passionate about data science, analysis, and research - specifically focued in AI, ML, and building systems that turn data complexity into clarity. I love exploring how intelligent models, clean design, and thoughtful engineering can solve real-world problems. I enjoy working collaboratively, but also independently. My goal is to become a skilled data scientist who can help solve real-world problems.
+I'm a Computer Science student with a concentration in Data Science. I am passionate about data science, analysis, and research - specifically focued in AI, ML, and building systems that turn data complexity into clarity. I love exploring how intelligent models, clean design, and thoughtful engineering can solve real-world problems. I enjoy working collaboratively, but also independently. My goal is to become a skilled data scientist who can help solve real-world problems.
 
 ## 🔬 Notable Projects (Private projects)
 
